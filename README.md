@@ -2,7 +2,7 @@ Customer Churn Prediction:
 This project predicts customer churn using the Telco Customer Churn dataset.  
 The goal is to identify customers who are likely to stop using a service so that retention strategies can be applied.
 
-Dataset
+Dataset:
 - Contains customer demographics, account details, and churn status.
 - Target column: Churn (1 = churned, 0 = stayed)
 
